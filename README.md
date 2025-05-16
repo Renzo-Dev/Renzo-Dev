@@ -3,6 +3,7 @@
 <p align="left">
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renzo-Dev&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Renzo-Dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
