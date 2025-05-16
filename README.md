@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 🎓 23 years old
-- 👨‍💻 3 years of programming experience
+- 👨‍💻 4 years of programming experience
 - 🔥 1.5 years focused on **backend development**
 - 🎨 1.5 years building **frontend interfaces**
 - 🧩 Interested in microservices, SaaS platforms, and scalable systems
