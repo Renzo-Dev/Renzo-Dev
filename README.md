@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alex
 
-🔧 I'm a Fullstack Developer with 3+ years of experience building web applications that are clean, scalable, and production-ready.
+🔧 I'm a Fullstack Developer with 2+ years of experience building web applications that are clean, scalable, and production-ready.
 
 💡 I'm passionate about backend architecture, clean code principles, and creating efficient frontend user experiences using modern frameworks and tools.
 
@@ -10,7 +10,7 @@
 
 - 🎓 23 years old, based in [your country/city]
 - 👨‍💻 3 years of programming experience
-- 🔥 2 years focused on **backend development**
+- 🔥 1.5 years focused on **backend development**
 - 🎨 1.5 years building **frontend interfaces**
 - 🧩 Interested in microservices, SaaS platforms, and scalable systems
 - 🤝 Open to collaboration on exciting open-source and commercial projects
