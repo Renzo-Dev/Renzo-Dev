@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dan
 
-🔧 I'm a Fullstack Developer with 2+ years of experience building web applications that are clean, scalable, and production-ready.
+🔧 I'm a Fullstack Developer with 3+ years of experience building web applications that are clean, scalable, and production-ready.
 
 💡 I'm passionate about backend architecture, clean code principles, and creating efficient frontend user experiences using modern frameworks and tools.
 
