@@ -73,13 +73,5 @@
 
 ---
 
-## 🎯 2025 Goals
-
-- [x] Master Vue 3 and Composition API  
-- [x] Build a microservice architecture with Laravel  
-- [ ] Deploy full SaaS project to production  
-- [ ] Learn more about Kubernetes & advanced DevOps  
-
----
 
 _Thanks for visiting my profile! Let's build something awesome together._ 🚀
