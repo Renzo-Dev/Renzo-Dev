@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 24 years old  
+- 🎓 25 years old  
 - 👨‍💻 5 years of programming experience  
 - 🔥 3 years focused on **backend development**  
 - 🎨 2 years building **frontend interfaces**  
